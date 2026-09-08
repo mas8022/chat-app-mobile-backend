@@ -351,3 +351,4 @@ C:\Users\M.A.S\Desktop\chatapp-mobile\backend\obj\Debug\net10.0\refint\backend.d
 C:\Users\M.A.S\Desktop\chatapp-mobile\backend\obj\Debug\net10.0\backend.pdb
 C:\Users\M.A.S\Desktop\chatapp-mobile\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
 C:\Users\M.A.S\Desktop\chatapp-mobile\backend\obj\Debug\net10.0\ref\backend.dll
+C:\Users\M.A.S\Desktop\chatapp-mobile\backend\obj\Debug\net10.0\backend.sourcelink.json
